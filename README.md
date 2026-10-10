@@ -3,11 +3,11 @@
 
 ## Asynchronous
 
-[Callbacks, promises and async / await syntax](https://erikespana.github.io/javascript/asynchronous/)
+[Callbacks, promises and async / await syntax](https://e2xperimental.github.io/javascript/asynchronous/)
 
-https://erikespana.github.io/javascript/15-broken-bookmarks/01-fetch.html
+https://ee2xperimental.github.io/javascript/15-broken-bookmarks/01-fetch.html
 
-## [Reading files in Javascript](https://github.com/erikespana/javascript/tree/master/01-read-textfile)
+## [Reading files in Javascript](https://github.com/e2xperimental/javascript/tree/master/01-read-textfile)
 
 ## Search and replace
 
